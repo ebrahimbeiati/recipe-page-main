@@ -1,0 +1,40 @@
+body{
+    background-color: lightblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    margin: 1%;
+    line-height: 1.6rem;
+}
+ 
+ 
+ .preparation{
+    background-color: lightpink;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5%;
+ }
+ h2{
+    color: blueviolet;
+ }
+ 
+
+ 
+th {
+    border-bottom: 1px solid black;
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+    padding: 5px;
+}
+
+td {
+    padding: 5px; 
+    margin-right: 5%;
+    
+}
+
+ .attribution{
+    font-size: bold;
+    color: grey;
+    text-align: center;
+ }
